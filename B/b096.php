@@ -1,4 +1,6 @@
 <?php
+// B096:爆弾の大爆発
+
     // 標準入力を一行ずつ配列に代入
     while ($stdin = trim(fgets(STDIN))) {
         $stdin_array[] = $stdin;
